@@ -247,3 +247,47 @@ string minWindow(string s, string t) {
 
     return s.substr(start, minLen);
 }
+
+#include <bits/stdc++.h>
+using namespace std;
+
+vector<int> findAnagrams(string s, string p) {
+
+    vector<int> ans;
+
+    if (p.length() > s.length())
+        return ans;
+
+    int need[26] = {0};
+    int window[26] = {0};
+
+    for (char c : p)
+        need[c - 'a']++;
+
+    int k = p.length();
+
+    for (int i = 0; i < s.length(); i++) {
+
+        window[s[i] - 'a']++;
+
+        if (i >= k)
+            window[s[i - k] - 'a']--;
+
+        if (i >= k - 1) {
+
+            bool same = true;
+
+            for (int j = 0; j < 26; j++) {
+                if (need[j] != window[j]) {
+                    same = false;
+                    break;
+                }
+            }
+
+            if (same)
+                ans.push_back(i - k + 1);
+        }
+    }
+
+    return ans;
+}
