@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0242-valid-anagram) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
@@ -267,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
