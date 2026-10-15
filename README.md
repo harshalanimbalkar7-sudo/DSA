@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0282-expression-add-operators) |
 | [1903-largest-odd-number-in-string](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/1922-count-good-numbers) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/1922-count-good-numbers) |
 ## Floyd's Cycle Finding Algorithm
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0231-power-of-two) |
 ## Depth-First Search
 |  |
 | ------- |
