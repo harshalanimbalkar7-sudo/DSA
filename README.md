@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0282-expression-add-operators) |
 | [0507-perfect-number](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0507-perfect-number) |
@@ -342,4 +344,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0037-sudoku-solver) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
