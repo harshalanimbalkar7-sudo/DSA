@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0282-expression-add-operators) |
+| [0507-perfect-number](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/1922-count-good-numbers) |
 ## Prefix Sum
