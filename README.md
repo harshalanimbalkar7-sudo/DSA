@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
@@ -394,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0204-count-primes) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/harshalanimbalkar7-sudo/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
